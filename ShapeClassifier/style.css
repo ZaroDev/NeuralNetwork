@@ -1,0 +1,8 @@
+html, body {
+    background-color: #CCC;
+    font-size: 64 pt;
+  }
+  canvas {
+    display: block;
+  }
+  
